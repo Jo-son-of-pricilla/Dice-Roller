@@ -2,10 +2,6 @@
 
 A simple web-based Dice Roller built with HTML, CSS, and JavaScript. Users can select how many dice to roll, and see both the numeric results and corresponding dice images.
 
-## 📸 Demo
-
-![Dice Roller Screenshot](assets/demo.png)  
-*(Add your own screenshot here)*
 
 ## 🚀 Features
 
@@ -17,7 +13,7 @@ A simple web-based Dice Roller built with HTML, CSS, and JavaScript. Users can s
 ## 🛠️ Tech Stack
 
 - HTML  
-- CSS (optional styling)  
+- CSS   
 - JavaScript  
 
 ## 📂 Project Structure
